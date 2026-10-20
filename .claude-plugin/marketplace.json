@@ -1,0 +1,22 @@
+{
+  "name": "chillout-motion-graphics",
+  "owner": {
+    "name": "ChainZenit",
+    "url": "https://x.com/ChainZenit"
+  },
+  "metadata": {
+    "description": "Motion graphics videos with original chillout and downtempo scores",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "chillout-motion-graphics",
+      "description": "Promos, launches, explainers, intros and reels rendered from code with real motion blur and original chillout or downtempo scores.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/chillout-motion-graphics"
+      ]
+    }
+  ]
+}
