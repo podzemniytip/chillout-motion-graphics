@@ -77,7 +77,7 @@ Node.js 22.4+, ffmpeg, and Chrome, Edge or Chromium. No npm packages, API keys, 
 
 ## License
 
-[MIT](LICENSE). This fork is based on [Mort1d/motion-graphics-skills](https://github.com/Mort1d/motion-graphics-skills);
+[MIT](LICENSE). This project adapts code from [Mort1d/motion-graphics-skills](https://github.com/Mort1d/motion-graphics-skills);
 see [NOTICE.md](NOTICE.md) for attribution. Bundled fonts: Montserrat and JetBrains Mono, SIL Open Font License 1.1
 ([OFL.txt](skills/chillout-motion-graphics/assets/template/assets/fonts/OFL.txt)).
 
